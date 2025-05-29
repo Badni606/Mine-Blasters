@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c9f6ad83100525f44be96d4a4c52f1a6, type: 3}
+  m_Name: FireBehaviour
+  m_EditorClassIdentifier: 
+  FirePrefab: {fileID: 5261945461050400734, guid: 53c83621f3779d44eb0848d248f8f60c, type: 3}
+  FireDuration: 4
+  FireDamage: 3
+  FireDamageInterval: 1.06
+  BurnDamage: 2
+  MaxBurns: 2
+  BurnIntervals: 1.12
+  BurnSprite: {fileID: -4998827747838694048, guid: 4b97292eaed289e43984e0ccf6d56403, type: 3}

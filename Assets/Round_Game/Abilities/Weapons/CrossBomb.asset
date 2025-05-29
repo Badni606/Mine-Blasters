@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 278c4184d4a82bf4ebf8516b21828715, type: 3}
+  m_Name: CrossBomb
+  m_EditorClassIdentifier: 
+  Name: CrossBomb
+  WeaponType: 0
+  sprite: {fileID: 1802870744638777420, guid: 5926c3d8f3c566d4d9d6ad7b8c885a22, type: 3}
+  prefab: {fileID: 632423494398008176, guid: 7955b86852918b34d95649a0d49cc043, type: 3}

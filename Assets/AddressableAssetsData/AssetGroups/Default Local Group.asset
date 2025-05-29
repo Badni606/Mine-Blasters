@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_GUID: 71a4ba4cb9d8a294386188d23468ec3c
+  m_SerializeEntries:
+  - m_GUID: 06bef3cfebb314c439406b99a9ca3bc5
+    m_Address: Assets/Round_Game/Abilities/Elements/Ice.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Elements
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2f2205e7a71c5984d94c3117669e8932
+    m_Address: Assets/Round_Game/Abilities/Weapons/prefabs/Dynamite.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4ef02cb113da9234f81d4b381467d950
+    m_Address: Assets/Round_Game/Abilities/Effects/Heal.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Effects
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b867474ecacec3c4f85f32e3c26b2e76
+    m_Address: Assets/Round_Game/Abilities/Weapons/MiningLaser.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Weapons
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d756d948e5f26c644b9e8b3a204f0248
+    m_Address: Assets/Round_Game/Abilities/Weapons/prefabs/MiningLaser.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Weapons
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d9914467c6398dd48b4fcf8a4eb537a2
+    m_Address: Assets/Round_Game/Abilities/Effects/SpeedUp.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Effects
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: eace5fb95d21f8449a21dc97f14a358f
+    m_Address: Assets/Round_Game/Abilities/Weapons/DirectionalBomb.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Weapons
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: c0c621b4fd721754abda70084385e259, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 6e3abb2f0ab08e746ad801fa3a6bcf8d, type: 2}
+    - {fileID: 11400000, guid: 24120b207d569304ba0e206a66f2aad8, type: 2}

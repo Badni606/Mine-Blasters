@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 278c4184d4a82bf4ebf8516b21828715, type: 3}
+  m_Name: MiningLaser
+  m_EditorClassIdentifier: 
+  Name: Mining Laser
+  WeaponType: 1
+  sprite: {fileID: 21300000, guid: f8774d953327e1547a5030d1095e38de, type: 3}
+  prefab: {fileID: 2821469234153151649, guid: d756d948e5f26c644b9e8b3a204f0248, type: 3}

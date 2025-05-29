@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Elements
+  m_EditorClassIdentifier: 
+  m_GroupName: Elements
+  m_GUID: 2367b496c371c964bad57cbffeb234ed
+  m_SerializeEntries:
+  - m_GUID: 7306267089a3f814a9ec22bd841c58cb
+    m_Address: Assets/Round_Game/Abilities/Elements/Fire.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Elements
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a718c0fd12ef0e24fb35d676c35588fb
+    m_Address: Assets/Round_Game/Abilities/Elements/None.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Elements
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: c0c621b4fd721754abda70084385e259, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 0fc0b03577f598943b0d4fe2c15e3014, type: 2}
+    - {fileID: 11400000, guid: d8c1b2416216c2b40bd0194a80f04951, type: 2}

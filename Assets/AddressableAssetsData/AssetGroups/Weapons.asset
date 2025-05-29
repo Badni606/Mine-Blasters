@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Weapons
+  m_EditorClassIdentifier: 
+  m_GroupName: Weapons
+  m_GUID: 6f4bf9cbae45c5042a9bb22ec54c811d
+  m_SerializeEntries:
+  - m_GUID: 04207fddb8b698e4b958b307e5fff692
+    m_Address: Assets/Round_Game/Abilities/Weapons/Dynamite.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Weapons
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: c0c621b4fd721754abda70084385e259, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 990aa8788e6ed2a43afae36800da0889, type: 2}
+    - {fileID: 11400000, guid: 5735c01641335a345a621502aab0ac96, type: 2}
